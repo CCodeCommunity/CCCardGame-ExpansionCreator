@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CCCardGame-ExpansionCreator/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/CCCardGame-ExpansionCreator/static/js/main.8635d50d.chunk.js",
+    "main.js.map": "/CCCardGame-ExpansionCreator/static/js/main.8635d50d.chunk.js.map",
+    "runtime-main.js": "/CCCardGame-ExpansionCreator/static/js/runtime-main.cfa2b03b.js",
+    "runtime-main.js.map": "/CCCardGame-ExpansionCreator/static/js/runtime-main.cfa2b03b.js.map",
+    "static/js/2.d837e318.chunk.js": "/CCCardGame-ExpansionCreator/static/js/2.d837e318.chunk.js",
+    "static/js/2.d837e318.chunk.js.map": "/CCCardGame-ExpansionCreator/static/js/2.d837e318.chunk.js.map",
+    "static/js/3.73ba2596.chunk.js": "/CCCardGame-ExpansionCreator/static/js/3.73ba2596.chunk.js",
+    "static/js/3.73ba2596.chunk.js.map": "/CCCardGame-ExpansionCreator/static/js/3.73ba2596.chunk.js.map",
+    "index.html": "/CCCardGame-ExpansionCreator/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/CCCardGame-ExpansionCreator/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.d837e318.chunk.js.LICENSE.txt": "/CCCardGame-ExpansionCreator/static/js/2.d837e318.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfa2b03b.js",
+    "static/js/2.d837e318.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.8635d50d.chunk.js"
+  ]
+}
